@@ -43,6 +43,11 @@ Meu objetivo é me tornar um profissional altamente qualificado, capaz de contri
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioGabDev&theme=transparent" height="180em" alt="Profile Details"/>
 </div>
 
+## 🐍 Minhas contribuições
+<div align="center">
+  <img src="https://raw.githubusercontent.com/turco-vic/turco-vic/main/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation">
+</div>
+
 ## 🚀 Tecnologias que utilizo
 
 <div align="center">
