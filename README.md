@@ -13,11 +13,11 @@
 ## 🧑‍💻 Sobre mim
 
 Sou um estudante dedicado e apaixonado pelo desenvolvimento de sistemas e soluções tecnológicas.
+Formado em Curso Técnico de desenvolvimento de sistemas e atualmente cursando Faculdade de Análise e Desenvolvimento de Sistemas no Senai Roberto Mange.
 Atualmente, estou em constante aprendizado, aprofundando meus conhecimentos em linguagens de programação, estruturas de dados e boas práticas de desenvolvimento de software.
 Tenho interesse especial por arquitetura de sistemas, desenvolvimento web e integração de tecnologias modernas.
 Busco constantemente desafios que estimulem meu crescimento técnico e pessoal, além de oportunidades para colaborar em projetos inovadores que gerem impacto positivo.
 Meu objetivo é me tornar um profissional altamente qualificado, capaz de contribuir efetivamente com equipes de tecnologia e enfrentar problemas complexos com criatividade e responsabilidade.
-
 
 
 ## 📊 GitHub Stats
